@@ -1,0 +1,17 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This thing is bonkers",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "We be makin' them walk the plank",
+      "id": 4
+    }
+  ]
+}
